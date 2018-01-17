@@ -37,9 +37,14 @@ Specs
 [ERC20 Token]
 
 Total Supply: 7,000,000
+
 Circulating Supply: 7,000,000
+
 Name: Galleon
+
 Ticker: GLN
+
 Decimals: 7
+
 Contract Addres: 0xd9cCdc9dA2C4665B2752BDE64e528eBc2EB92314
 
