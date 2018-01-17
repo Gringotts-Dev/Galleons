@@ -48,5 +48,5 @@ Decimals: 7
 
 Contract Address: 0xd9cCdc9dA2C4665B2752BDE64e528eBc2EB92314
 
-Note: The Dev will be keeping 1Million GLN for personal use (14.28%). The remaining 6million will be given away for free.
+Note: The Goblins will be keeping 1Million GLN for personal use (14.28%). The remaining 6million will be given away for free.
 
